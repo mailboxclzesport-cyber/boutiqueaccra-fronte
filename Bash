@@ -1,0 +1,6 @@
+cd frontend
+git init
+git remote add origin https://github.com/TON_NOM/boutiqueaccra-frontend.git
+git add .
+git commit -m "Ma boutique Accra"
+git push -u origin master
